@@ -1,9 +1,9 @@
 package org.example;
 
-import org.example.ducks.Duck;
-import org.example.ducks.MallardDuck;
-import org.example.ducks.ModelDuck;
-import org.example.ducks.UtilClasses.FlyRocketPowered;
+import org.example.ducks_strategy.Duck;
+import org.example.ducks_strategy.MallardDuck;
+import org.example.ducks_strategy.ModelDuck;
+import org.example.ducks_strategy.UtilClasses.FlyRocketPowered;
 
 public class MiniDuckSimulator {
     public static void main(String[] args) {
